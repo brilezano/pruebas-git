@@ -1,0 +1,8 @@
+* commit 4f46ce7bcabd2689617683df7e0c088f72b4ae21 (HEAD -> master)
+  Author: Kevin <kevbf1999@gmail.com>
+  Date:   Tue Apr 24 16:57:30 2018 -0300
+  
+      commit inicial
+4f46ce7 HEAD@{0}: checkout: moving from codigo to master
+4f46ce7 HEAD@{1}: checkout: moving from master to codigo
+4f46ce7 HEAD@{2}: commit (initial): commit inicial
